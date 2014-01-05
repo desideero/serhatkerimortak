@@ -18,7 +18,7 @@ public class ButtonBean implements Serializable {
 	private static final long serialVersionUID = -942987062301500605L;
 	
 	/**
-	 * my ButtonBean class file - Ali Kerim Erkan
+	 * my ButtonBean class fi
 	 */
 	
 	private Integer number = 1;
